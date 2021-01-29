@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Thanos",
+    "weakness": "Iron man",
+    "origin": "Titan",
+    "baseRank": 10
+  },
+  {
+    "id": 2,
+    "name": "Hulk",
+    "weakness": "Intellect",
+    "origin": "Earth",
+    "baseRank": 8
+  },
+  {
+    "id": 3,
+    "name": "Deadpool",
+    "weakness": "carbonadium",
+    "origin": "Earth(X-Men)",
+    "baseRank": 5
+  },
+  {
+    "id": 4,
+    "name": "Iron man",
+    "weakness": "dependence on technology",
+    "origin": "Earth",
+    "baseRank": 6
+  },
+  {
+    "id": 5,
+    "name": "Star-Lord",
+    "weakness": "Physically weak",
+    "origin": "Earth",
+    "baseRank": 3
+  }
+]
